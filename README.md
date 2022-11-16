@@ -1,1 +1,1 @@
-# VCR-Classifier-Resnet152
+# VCR-Classifier-Resnet50
